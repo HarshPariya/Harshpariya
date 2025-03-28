@@ -5,18 +5,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="harshppariya" /> </p>
 
+- 👨‍💻 I’m currently working on [Rock Paper Scissors Game]()
+
+- 📝 I regularly update Tech Information in **Linkedin** on **https://www.linkedin.com/in/harsh-pariya/**
+ 
+- 🌱 Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**
 
 - 📫 How to reach me **harshpariya195@outlook.com**
+
+<details open>
+<summary>Developer Quote</summary>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FFE4B5&center=true&vCenter=true&random=false&width=800&lines=It’s+not+a+bug,+it’s+an+undocumented+feature.++―+Anonymous" alt="Developer Quote"/>
+</p>
+</details>
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_harshpariya_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-pariya/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@harshpariya_01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hpariya195@gmail.com)
 
-<details open>
-<summary><b>Developer Quote</b></summary>
-<p align="center"><b>
-    It’s not a bug; it’s an undocumented feature. ― Anonymous
-</b></p>
-</details>
 
 
 # 💻 Tech Stack:
