@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="harshppariya" /> </p>
 
-- 👨‍💻 I’m currently working on [Rock Paper Scissors Game]()
+- 👨‍💻 I’m currently working on [Rock Paper Scissors Game](https://github.com/HarshPariya/Rock-Paper-Scissors.git)
 
 - 📝 I regularly update Tech Information in **Linkedin** on **https://www.linkedin.com/in/harsh-pariya/**
  
