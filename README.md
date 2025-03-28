@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently working on [Rock Paper Scissors Game](https://github.com/HarshPariya/Rock-Paper-Scissors.git)
 
-- 📝 I regularly update Tech Information in **Linkedin** on **in/harsh-pariya**
+- 📝 I regularly update Tech Information in **Linkedin**(in/harsh-pariya)
  
 - 🌱 Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**
 
