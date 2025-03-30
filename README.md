@@ -1,4 +1,6 @@
-<h1 align="center"> Hi 👋🏻, I'm Harsh Pariya </br> 
+<p align="center"><b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&random=false&width=800&lines=Hi+👋🏻,+I'm+Harsh+Pariya!" /></b>
+</p> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
