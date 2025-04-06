@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=FF0000&center=true&vCenter=true&random=false&width=800&lines=Heyyy👋🏻,+I'm+Harsh+Pariya!"/></b>
 </p> 
 </h1>
-<p align="center"><b>I love creating new things ⚡</b></p>
+<p align="center"><h1>I love creating new things ⚡</h1></p>
 <p align="center"><b>Turning imagination into reality 🚀</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="harshppariya" /> </p>
