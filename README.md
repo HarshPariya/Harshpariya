@@ -3,7 +3,7 @@
 </p> 
 </h1>
 <p align="center"><b>I love creating new things ⚡</b></p>
-<p align="center"><b>Turning imagination into reality🚀</b></p>
+<p align="center"><b>Turning imagination into reality 🚀</b></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="harshppariya" /> </p>
 
