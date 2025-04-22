@@ -1,8 +1,8 @@
-<p align="center"><b>
-</p> 
-</h1>
-<p align="center"><h1>I Love creating new things⚡</h1></p>
-<p align="center"><h1>Turning imagination into reality 🚀</h1></p>
+<p align="center"><b><p align="center"><h1><b>Hyyy, I'm Harsh Pariya !!</b></h1>
+</p>
+
+<p align="center">I Love creating new things⚡</p>
+<p align="center">Turning imagination into reality 🚀</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="harshppariya" /> </p>
 
@@ -14,10 +14,11 @@
 
 - 📫 How to reach me **harshpariya195@outlook.com**
 
+
 <details open>
 <summary>Developer Quote</summary>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C2FF7&center=true&vCenter=true&random=false&width=800&lines=It’s+not+a+bug,+it’s+an+undocumented+feature.++―+Anonymous" alt="Developer Quote"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C27&center=true&vCenter=true&random=false&width=800&lines=It's+not+a+bug,+it's+an+undocumented+feature.++-+Anonymous" alt="Developer Quote"/>
 </p>
 </details>
 
