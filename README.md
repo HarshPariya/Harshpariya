@@ -1,4 +1,4 @@
-<p align="center"><b><p align="center"><h1><b>Hyyy, I'm Harsh Pariya !!</b></h1>
+<p align="center"><b><p align="center"><h1><b><i>Hyyy, I'm Harsh Pariya !!</i></b></h1>
 </p>
 
 <p align="center">I Love creating new things⚡</p>
