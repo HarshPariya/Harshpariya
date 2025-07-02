@@ -2,7 +2,7 @@
 </p>
 
 <p align="center">I Love creating new things⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>a
+<p align="center">Turning imagination into reality 🚀</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="harshppariya" /> </p>
 
