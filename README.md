@@ -53,7 +53,6 @@
 
 
 
-![](https://claude.ai/public/artifacts/452bfc42-7a2f-450c-8df3-ce83d4880bf2)
-
+- 🐍 Play my [Snake Game](https://harshpariya.github.io/snake-game/) - Built with JavaScript & Canvas
 
 
