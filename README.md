@@ -43,16 +43,9 @@
 
 # 📊 GitHub Stats:
 
-### 🔹 Main Stats
-![](https://github-readme-stats.vercel.app/api?username=HarshPariya&theme=radical&hide_border=true&cache_seconds=86400)
 
 ### 🔹 Streak Stats 
 ![](https://streak-stats.demolab.com?user=HarshPariya&theme=radical&hide_border=true)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-profile-summary-cards.vercel.app/api?username=HarshPariya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
