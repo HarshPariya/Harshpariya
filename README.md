@@ -1,4 +1,4 @@
-z<h1 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=oblique&color=7FFFD4&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Harsh+Pariya+👨🏻‍💻;" />
 <!-- </h1><p align="center"><b><p align="center"><h1><b><i>Hyyy, I'm Harsh Pariya !!</i></b></h1> -->
 <!-- </p> -->
