@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="harshppariya" /> </p>
 
-- 👨‍💻 I’m currently working on [Rock Paper Sacissors Game](https://github.com/HarshPariya/Rock-Paper-Scissors.git)
+- 👨‍💻 I’m currently working on [My Portfolio](https://github.com/HarshPariya/harsh-portfolio.git)
 
 - 📝 I regularly update Tech Information on [Linkedin](https://www.linkedin.com/in/harsh-pariya/)
  
