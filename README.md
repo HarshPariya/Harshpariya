@@ -45,5 +45,3 @@
 
 
 - 🐍 Play my [Snake Game](https://harshpariya.github.io/snake-game/) - Built with JavaScript & Canvas
-
-
