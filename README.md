@@ -37,16 +37,11 @@
 
 
 
-
-
-
-
 # 📊 GitHub Stats:
 
 
 ### 🔹 Streak Stats 
 ![](https://streak-stats.demolab.com?user=HarshPariya&theme=radical&hide_border=true)
-
 
 
 - 🐍 Play my [Snake Game](https://harshpariya.github.io/snake-game/) - Built with JavaScript & Canvas
