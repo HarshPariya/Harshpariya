@@ -6,7 +6,7 @@
 <p align="center">I Love creating new things⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&style=flat" alt="harshppariya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&sztyle=flat" alt="harshppariya" /> </p>
 
 - 👨‍💻 I’m currently working on [My Portfolio](https://github.com/HarshPariya/harsh-portfolio.git)
 
