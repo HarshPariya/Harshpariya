@@ -7,7 +7,7 @@
 <p align="center">Turning imagination into reality 🚀</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsKayWat&label=Profile%20views&color=0e75b6&sztyle=flat" alt="harshppariya" /> </p>
-
+a
 - 👨‍💻 I’m currently working on [My Portfolio](https://github.com/HarshPariya/harsh-portfolio.git)
 
 - 📝 I regularly update Tech Information on [Linkedin](https://www.linkedin.com/in/harsh-pariya/)
