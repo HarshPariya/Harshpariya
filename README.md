@@ -13,7 +13,7 @@
 - 📝 I regularly update Tech Information on [Linkedin](https://www.linkedin.com/in/harsh-pariya/)
  
 - 🌱 I’m Currently learning: **MERN Stack (MongoDB, Express, React, Node.js)**
-h
+
 - 📫 How to reach me **harshpariya195@outlook.com**
 
 
