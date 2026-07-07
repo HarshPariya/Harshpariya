@@ -230,7 +230,7 @@ const harsh = {
 ## 「 📊 GitHub Stats 」
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshPariya&theme=radical&hide_border=true&background=00000000&ring=FF6B35&fire=FFD700&currStreakLabel=FF6B35&sideLabels=FF9F45&dates=FF9F45" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=HarshPariya&theme=radical&hide_border=true&background=00000000&ring=FF6B35&fire=FFD700&currStreakLabel=FF6B35&sideLabels=FF9F45&dates=FF9F45" />
 </div>
 
 <br/>
