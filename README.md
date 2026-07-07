@@ -6,9 +6,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=620&height=60&lines=%5B%E2%96%B6%5D+Machine+Learning...;%5B%E2%96%B6%5D+Deep+Learning...;%5B%E2%96%B6%5D+Natural+Language+Processing...;%5B%E2%96%B6%5D+Generative+AI+%26+Agentic+Systems...;%5B%E2%96%B6%5D+Computer+Vision...;%5B%E2%96%B6%5D+Neural+Link+Established.+Welcome." alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/wpIqberrjjSKDmaCgA/giphy.gif" width="180" />
-</div>
+</div> -->
 
 <br/>
 
