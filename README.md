@@ -15,7 +15,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/harsh-pariya/"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>&nbsp;
   <a href="mailto:harshpariya195@gmail.com"><img src="./svg/btn_email.svg?v=3" height="40" /></a>&nbsp;
-  <a href="https://aiml-folio-alpha.vercel.app"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>
+  <a href="https://www.harshpariya.dev"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>
 </div>
 
 <br/>
@@ -200,7 +200,7 @@ const harsh = {
 
 <table width="100%" border="0" cellspacing="12" cellpadding="0">
 <tr>
-  <td width="33.3%" valign="top" align="center"><a href="https://aiml-folio-alpha.vercel.app/projects"><img src="./svg/panel_projects.svg" width="100%" alt="Projects"/></a></td>
+  <td width="33.3%" valign="top" align="center"><a href="https://www.harshpariya.dev/projects"><img src="./svg/panel_projects.svg" width="100%" alt="Projects"/></a></td>
   <td width="33.3%" valign="top" align="center"><a href="https://github.com/HarshPariya"><img src="./svg/panel_awards.svg" width="100%" alt="Awards"/></a></td>
   <td width="33.3%" valign="top" align="center"><a href="https://www.linkedin.com/in/harsh-pariya/"><img src="./svg/panel_certs.svg" width="100%" alt="Certifications"/></a></td>
 </tr>
@@ -221,7 +221,7 @@ const harsh = {
 
 </div>
 
-<p align="center"> <a href="https://aiml-folio-alpha.vercel.app/projects"> 🚀 View All Projects </a> </p>
+<p align="center"> <a href="https://www.harshpariya.dev/projects"> 🚀 View All Projects </a> </p>
 
 <div align="center">
   <img src="./svg/divider_circuit.svg" width="100%">
@@ -249,13 +249,13 @@ const harsh = {
   <br/>
 </div>
 <div align="center">
-  <a href="https://aiml-folio-alpha.vercel.app"><img src="./svg/collab_terminal.svg" width="100%" alt="Collaboration Terminal"/></a>
+  <a href="https://www.harshpariya.dev"><img src="./svg/collab_terminal.svg" width="100%" alt="Collaboration Terminal"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://aiml-folio-alpha.vercel.app"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>&nbsp;&nbsp;
+  <a href="https://www.harshpariya.dev"><img src="./svg/btn_portfolio.svg?v=3" height="40" /></a>&nbsp;&nbsp;
   <a href="mailto:harshpariya195@gmail.com"><img src="./svg/btn_email.svg?v=3" height="40" /></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/harsh-pariya/"><img src="./svg/btn_linkedin.svg?v=3" height="40" /></a>
 </div>
