@@ -1,4 +1,4 @@
-z<div align="center">
+<div align="center">
   <img src="./svg/header.svg" width="100%" alt="Harsh Pariya — System Portal" />
 </div>
 
